@@ -40,7 +40,7 @@ def sortedSquaredArray2(array):
 
 
 # x= [1, 2, 3, 5, 6, 8, 9]
-# print(sortedSquaredArray2(X))
+# print(sortedSquaredArray2(x))
 
 
 
