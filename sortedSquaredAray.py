@@ -16,6 +16,7 @@
 
 # 0(n) time  and 0(n) space
 
+
 def sortedSquaredArray2(array):
 
     newArray = [0 for _ in array]
@@ -41,6 +42,3 @@ def sortedSquaredArray2(array):
 
 # x= [1, 2, 3, 5, 6, 8, 9]
 # print(sortedSquaredArray2(x))
-
-
-
